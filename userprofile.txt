@@ -1,5 +1,6 @@
 # install oh my posh first , take reference from official website "ohmyposh.dev"
 # install terminal icons using command   "Install-Module -Name Terminal-Icons".
+# install PSReadine for Autocompletion using commad "Install-Module -Name PSReadline -Scope CurrentUser -Force -SkipPublisherCheck"
 
 # then open windows powershell and type "$code PROFILE"  to open config in VS-code.
 # copy the below contents in the Editor and save it. please replace the path as required , 
